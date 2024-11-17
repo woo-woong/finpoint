@@ -10,3 +10,6 @@
 ### 🗓️ 개발 기간
 
 ### 👥 멤버 구성
+
+### 🎨 prototype
+> [✅figma](https://www.figma.com/design/pGeIGw2GbrQK2aWMkhjABc/FinPoint?node-id=1-2&t=MlzNbDvXpGRdaE4r-1)
