@@ -1,0 +1,6 @@
+[submodule "finpoint-fe"]
+	path = finpoint-fe
+	url = git@github.com-personal:woo-woong/finpoint-fe.git
+[submodule "finpoint-be"]
+	path = finpoint-be
+	url = git@github.com-personal:woo-woong/finpoint-be.git
