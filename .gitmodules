@@ -1,6 +1,6 @@
-[submodule "vd-finpoint-fe"]
-	path = vd-finpoint-fe
-	url = https://github.com/woo-woong/vd-finpoint-fe.git
 [submodule "vd-finpoint-be"]
 	path = vd-finpoint-be
 	url = https://github.com/woo-woong/vd-finpoint-be.git
+[submodule "vd-finpoint-fe"]
+	path = vd-finpoint-fe
+	url = https://github.com/woo-woong/vd-finpoint-fe.git
