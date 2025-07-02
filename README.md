@@ -2,7 +2,7 @@
 
 > 🏆 **SSAFY 12기 1학기 관통 프로젝트 우수상 수상**
 >
-> * **[🧷웹서비스 바로가기](https://finpoint-woo-woong.vercel.app/)**
+> * **[🧷웹서비스 바로가기(백엔드 배포 중단)](https://finpoint-woo-woong.vercel.app/)**
 > * **[🎞시연 영상](https://youtu.be/BZho8io2gHE?feature=shared)**
 > * **[📃PPT](https://www.mangoboard.net/publish/44015780)**
 
